@@ -7,4 +7,5 @@ print(name.lower())
 
 str1 = "My Name is"
 str2 = "Kritika"
-print(str1 + str2)
+print(str1 + " " + str2)
+
