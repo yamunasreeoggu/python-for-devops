@@ -9,3 +9,6 @@ str1 = "My Name is"
 str2 = "Kritika"
 print(str1 + " " + str2)
 
+text = "qwertyuiosdfghjksdfghjcvbnm"
+length = len(text)
+print("Length of String:", length)
