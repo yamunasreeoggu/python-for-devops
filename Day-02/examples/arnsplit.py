@@ -3,3 +3,5 @@ print(arn.split("/")[1])
 
 name = "yamuna"
 print(name.upper())
+print(name.lower())
+
