@@ -1,4 +1,4 @@
-arn = "arn:aws:iam::123456789012:user/johndoe"
+arn = "arn:aws:iam::123456789012:user/ravi"
 print(arn.split("/")[1])
 
 name = "yamuna"
