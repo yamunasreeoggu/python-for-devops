@@ -5,3 +5,6 @@ name = "yamuna"
 print(name.upper())
 print(name.lower())
 
+str1 = "My Name is"
+str2 = "Kritika"
+print(str1 + str2)
