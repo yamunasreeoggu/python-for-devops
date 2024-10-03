@@ -1,3 +1,3 @@
 import functions
 
-functions
+functions.multiplication()
