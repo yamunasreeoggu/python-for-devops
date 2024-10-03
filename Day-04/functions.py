@@ -13,8 +13,9 @@ def multiplication():
     mul = a * b
     print("Multiplication:", mul)
 
-addition()
-subtraction()
-multiplication()
+if __name__ == "__main__":
+    addition()
+    subtraction()
+    multiplication()
 
 
