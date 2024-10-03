@@ -1,3 +1,4 @@
 import functions
 
-functions.subtraction()
+result = functions.subtraction()
+print(result)
